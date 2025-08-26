@@ -1,4 +1,7 @@
-discord.py
-yt-dlp
 fastapi
 uvicorn
+discord.py[voice]
+PyNaCl
+ffmpeg-python
+imageio[ffmpeg]
+requests
