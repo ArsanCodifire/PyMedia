@@ -4,3 +4,4 @@ discord.py[voice]
 PyNaCl
 ffmpeg-python
 imageio[ffmpeg]
+yt-dlp
