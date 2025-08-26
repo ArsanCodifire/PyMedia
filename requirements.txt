@@ -1,7 +1,6 @@
-fastapi
+requests
 uvicorn
 discord.py[voice]
 PyNaCl
 ffmpeg-python
 imageio[ffmpeg]
-requests
