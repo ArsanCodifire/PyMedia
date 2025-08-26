@@ -1,4 +1,4 @@
-requests
+fastapi
 uvicorn
 discord.py[voice]
 PyNaCl
